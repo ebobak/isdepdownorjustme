@@ -1,5 +1,5 @@
 # Unofficial DEP Status Page
 
-The current stage is:
+The current status is:
 
 * Up
