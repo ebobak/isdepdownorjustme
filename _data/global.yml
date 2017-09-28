@@ -1,0 +1,6 @@
+# Site Settings
+title: "Unofficial Apple DEP Page"
+description: "Current Status:"
+url: 'http://isdepdownorjust.me' # the base hostname & protocol for your site
+nav: "false"
+github: 'macadmins/isdepdownorjustme'

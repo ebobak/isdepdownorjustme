@@ -1,4 +1,7 @@
-# Site settings
-title: Unofficial Apple DEP Status Page
+# Where things are
+layouts_dir:     ./_layouts
+data_dir: ./_data
+includes_dir: ./_includes
+
 gems:
   - jemoji
