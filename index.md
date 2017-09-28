@@ -1,3 +1,3 @@
 The current status is:
 
-* Up
+## Up :smile:
